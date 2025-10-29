@@ -19,8 +19,6 @@ LMS is a comprehensive web-based platform designed to manage, deliver, and track
 ![Screenshot 5](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1331.png)
 ![Screenshot 6](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1332.png)
 
-
-
 🚀 Features
 
 Dashboard Overview – Track courses, students, and progress.
@@ -76,6 +74,7 @@ php artisan migrate
 Start the development server
 
 php artisan serve
+
 
 
 
